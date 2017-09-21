@@ -7,3 +7,4 @@
 terraform/.terraform/
 terraform/prod/.terraform/
 terraform/stage/.terraform/
+*.retry
