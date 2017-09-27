@@ -1,5 +1,0 @@
-project = "infra-179612"
-public_key_path = "~/.ssh/appuser.pub"
-private_key_path = "~/.ssh/appuser"
-db_disk_image = "reddit-db-base-20170926-102823"
-app_disk_image = "reddit-app-base-20170926-102349"
